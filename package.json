@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "...",
+    "jsonwebtoken": "...",
+    "mongoose": "...",
+    "dotenv": "...",
+    "body-parser": "..."
+  }
+}
